@@ -118,6 +118,40 @@ h1 span {
   text-wrap: balance;
 }
 
+.venue-line {
+  margin: 16px auto 0;
+}
+
+.venue-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 5px 14px;
+  border: 1px solid var(--blue-200);
+  border-radius: 999px;
+  background: var(--blue-50);
+  color: var(--blue-700);
+  font-size: 0.86rem;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.venue-badge::before {
+  width: 7px;
+  height: 7px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background: var(--green-500);
+  content: "";
+}
+
+.venue-badge:hover {
+  border-color: var(--blue-500);
+  background: #e5f3ff;
+  color: var(--blue-700);
+  text-decoration: none;
+}
+
 .authors {
   max-width: 900px;
   margin: 24px auto 0;

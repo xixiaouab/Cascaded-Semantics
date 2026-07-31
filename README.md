@@ -4,6 +4,8 @@ Static GitHub Pages site for:
 
 **Prompting Vision Foundation Models with Cascaded Semantics**
 
+Accepted to **Transactions on Machine Learning Research (TMLR), 2026**.
+
 The site follows the VIGIL project-page template and includes:
 
 - title, authors, affiliations, and project links
