@@ -2,7 +2,7 @@
 
 Static GitHub Pages site for:
 
-**Prompting Vision Foundation Models with Cascaded Semantics**
+**Adapting Vision Foundation Models with Cascaded Semantics**
 
 Accepted to **Transactions on Machine Learning Research (TMLR), 2026**.
 
